@@ -53,9 +53,6 @@ Admins can add new plants with multiple categories. The app is built with **Reac
 - MongoDB 
 
 
----
-
-## 📂 Project Structure
 
 
 
