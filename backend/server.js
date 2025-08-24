@@ -14,7 +14,7 @@ app.use(helmet());
 app.use(express.json({ limit: "1mb" }));
 app.use(morgan("dev"));
 
-const origin = process.env.CORS_ORIGIN || "*";
+const origin = "https://mini-plant-store-eosin.vercel.app";
 app.use(
   cors({
     origin,
